@@ -1,0 +1,18 @@
+.font{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content:space-around;
+  margin: 5px;
+}
+
+.weater{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+  font-size: 2rem;
+}
+
+.about{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+  font-size: 1rem;
+}

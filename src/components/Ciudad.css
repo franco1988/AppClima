@@ -1,0 +1,15 @@
+.ciudad{
+  display:inline-block;
+  padding: 1.5rem;
+  margin: 20px;
+  width: 20rem;
+  height: 15rem;
+  border-radius: 1rem;
+  background-image: linear-gradient(to top, rgb(4, 62, 138) , rgb(96, 176, 250));
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(0, 10, 56);
+}
+
+h2{
+  color:white;
+}

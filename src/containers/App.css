@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+  background-image: url("../img/noche1.jpg");
+  background-size:cover;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
