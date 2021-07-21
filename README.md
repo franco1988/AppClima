@@ -8,3 +8,6 @@ se puede acceder a una informacion mas detallada. Para volver a la pagina princi
 se debe hacer click en la palabra App Clima.
 
 App creada por Franco Cruz.
+
+Para correr la aplicacion primero debe decargar el zip o clonarlo, luego en la consola debe
+poner  npm install  o  npm i   y por ultimo   npm start.
