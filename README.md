@@ -1,7 +1,7 @@
 #App Clima
 
 ## Link video:
-**[https://vimeo.com/635690963](https://vimeo.com/635690963)**
+**[Video App Clima](https://vimeo.com/635690963)**
 
 Proyecto hecho con componentes de React y estilos en CSS.
 Esta app tiene un input en la parte superior de la pagina donde se ingresa el nombre
