@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AppClima/static/css/main.787b6316.chunk.css",
+    "main.js": "/AppClima/static/js/main.cbb372ef.chunk.js",
+    "main.js.map": "/AppClima/static/js/main.cbb372ef.chunk.js.map",
+    "runtime-main.js": "/AppClima/static/js/runtime-main.6e6fcc75.js",
+    "runtime-main.js.map": "/AppClima/static/js/runtime-main.6e6fcc75.js.map",
+    "static/js/2.c61fb846.chunk.js": "/AppClima/static/js/2.c61fb846.chunk.js",
+    "static/js/2.c61fb846.chunk.js.map": "/AppClima/static/js/2.c61fb846.chunk.js.map",
+    "index.html": "/AppClima/index.html",
+    "static/css/main.787b6316.chunk.css.map": "/AppClima/static/css/main.787b6316.chunk.css.map",
+    "static/js/2.c61fb846.chunk.js.LICENSE.txt": "/AppClima/static/js/2.c61fb846.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/AppClima/static/media/noche1.a45eba25.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e6fcc75.js",
+    "static/js/2.c61fb846.chunk.js",
+    "static/css/main.787b6316.chunk.css",
+    "static/js/main.cbb372ef.chunk.js"
+  ]
+}
